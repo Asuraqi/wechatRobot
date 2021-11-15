@@ -1,4 +1,4 @@
-# wechatRobot
+# WechatRobot
 
 简单实现微信聊天自动回复，通过itchat包与小冰的调用，实现自动回复。
 
